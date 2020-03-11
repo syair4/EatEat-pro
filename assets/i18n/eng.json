@@ -1,5 +1,8 @@
 {
     "RequiredIngredients": "Required Ingredients",
     "OptionalIngredients": "Optional Ingredients",
-    "contain": "contain"
+    "contain": "contain",
+    "SpecificNutrition": "Specific Nutrition",
+    "SpecificNutritionDes" : "Search by specific nutrition"
+
 }

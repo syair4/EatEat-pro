@@ -1,6 +1,8 @@
 {
     "RequiredIngredients": "מרכיבי מנה הכרחיים",
     "OptionalIngredients": "מרכיבי מנה אפשריים",
-    "contain": "מכיל"
+    "contain": "מכיל",
+    "SpecificNutrition": "תזונה",
+    "SpecificNutritionDes" : "חפש לפי תזונה מסיומת"
 
 }
