@@ -3,6 +3,8 @@
     "OptionalIngredients": "Optional Ingredients",
     "contain": "contain",
     "SpecificNutrition": "Specific Nutrition",
-    "SpecificNutritionDes" : "Search by specific nutrition"
+    "SpecificNutritionDes" : "Search by specific nutrition",
+    "dishSpecifications" : "Dish Specifications",
+    "dishSpecificationsDes" : "Search by dish portray"
 
 }

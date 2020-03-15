@@ -3,6 +3,8 @@
     "OptionalIngredients": "מרכיבי מנה אפשריים",
     "contain": "מכיל",
     "SpecificNutrition": "תזונה",
-    "SpecificNutritionDes" : "חפש לפי תזונה מסיומת"
+    "SpecificNutritionDes" : "חפש לפי תזונה מסיומת",
+    "dishSpecifications" : "מאפיינים",
+    "dishSpecificationsDes" : "חפש לפי מאפיין מנה"
 
 }
