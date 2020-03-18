@@ -1,10 +1,14 @@
 {
-    "RequiredIngredients": "Required Ingredients",
-    "OptionalIngredients": "Optional Ingredients",
-    "contain": "contain",
-    "SpecificNutrition": "Specific Nutrition",
+    "RequiredIngredients" : "Required Ingredients",
+    "OptionalIngredients" : "Optional Ingredients",
+    "contain" : "contain",
+    "SpecificNutrition" : "Specific Nutrition",
     "SpecificNutritionDes" : "Search by specific nutrition",
     "dishSpecifications" : "Dish Specifications",
-    "dishSpecificationsDes" : "Search by dish portray"
+    "dishSpecificationsDes" : "Search by dish portray",
+    "likeButton" : "Like!" ,
+    "dislikeButton" : "Dislike",
+    "allergyButton" : "Allergy",
+    "placeholderText" : "Enter Ingredient"
 
 }

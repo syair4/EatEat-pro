@@ -5,6 +5,12 @@
     "SpecificNutrition": "תזונה",
     "SpecificNutritionDes" : "חפש לפי תזונה מסיומת",
     "dishSpecifications" : "מאפיינים",
-    "dishSpecificationsDes" : "חפש לפי מאפיין מנה"
+    "dishSpecificationsDes" : "חפש לפי מאפיין מנה",
+    "likeButton" : "אוהב!" ,
+    "dislikeButton" : "לא אוהב",
+    "allergyButton" : "אלרגי",
+    "placeholderText" : "כתוב מרכיב"
+
+
 
 }
