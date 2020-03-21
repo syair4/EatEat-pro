@@ -9,6 +9,15 @@
     "likeButton" : "Like!" ,
     "dislikeButton" : "Dislike",
     "allergyButton" : "Allergy",
-    "placeholderText" : "Enter Ingredient"
+    "placeholderText" : "Enter Ingredient",
+
+    "settingTitle" : "Restaurant Settings",
+    "menuName" : "Menu Name",
+    "dishName" : "Dish Name",
+    "dishDescription" : "Description",
+    "dishInfo" : "Info",
+    "dishOptionalIngredients" : "Optional Ingredients",
+    "dishRequiredIngredients" : "Required Ingredients",
+    "dishPrice" : "Price"
 
 }
