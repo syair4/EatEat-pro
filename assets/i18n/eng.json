@@ -13,6 +13,9 @@
 
     "settingTitle" : "Restaurant Settings",
     "menuName" : "Menu Name",
+    "menuDescription" : "Menu Description",
+    "sectionName" : "Section Name",
+    "sectionDescription" : "Menu Description",
     "dishName" : "Dish Name",
     "dishDescription" : "Description",
     "dishInfo" : "Info",

@@ -13,6 +13,9 @@
 
     "settingTitle" : "הגדרות המסעדה",
     "menuName" : "שם התפריט",
+    "menuDescription" : "תיאור התפריט",
+    "sectionName" : "שם המחלקה",
+    "sectionDescription" : "תיאור המחלקה",
     "dishName" : "שם המנה",
     "dishDescription" : "תיאור קצר",
     "dishInfo" : "תיאור מפורט",
