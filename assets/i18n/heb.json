@@ -21,6 +21,15 @@
     "dishInfo" : "תיאור מפורט",
     "dishOptionalIngredients" : "רכיבים אפשריים",
     "dishRequiredIngredients" : "רכיבים הכרחיים",
-    "dishPrice" : "מחיר"
+    "dishPrice" : "מחיר",
+    "discardChanges" : "בטל שינויים",
+    "saveChanges" : "שמור שינויים",
+    "dishEditTitle" : "עריכת מנה",
+    "dishEditName" : "שם המנה",
+    "dishEditInfo" : "מידע מורחב על המנה",
+    "dishEditDescription" : "תיאור המנה",
+    "dishEditSection" : "מחלקה"
+
+
 
 }

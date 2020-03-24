@@ -21,6 +21,12 @@
     "dishInfo" : "Info",
     "dishOptionalIngredients" : "Optional Ingredients",
     "dishRequiredIngredients" : "Required Ingredients",
-    "dishPrice" : "Price"
-
+    "dishPrice" : "Price",
+    "discardChanges" : "Discard Changes",
+    "saveChanges" : "Save Changes",
+    "dishEditTitle" : "Edit dish",
+    "dishEditName" : "Dish Name",
+    "dishEditInfo" : "Dish Information",
+    "dishEditDescription" : "Dish Description",
+    "dishEditSection" : "dish Section"
 }
