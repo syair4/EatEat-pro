@@ -15,7 +15,7 @@
     "menuName" : "Menu Name",
     "menuDescription" : "Menu Description",
     "sectionName" : "Section Name",
-    "sectionDescription" : "Menu Description",
+    "sectionDescription" : "Section Description",
     "dishName" : "Dish Name",
     "dishDescription" : "Description",
     "dishInfo" : "Info",
@@ -27,6 +27,19 @@
     "dishEditTitle" : "Edit dish",
     "dishEditName" : "Dish Name",
     "dishEditInfo" : "Dish Information",
+    "dishEditSpecifications" : "Dish Specifications",
     "dishEditDescription" : "Dish Description",
-    "dishEditSection" : "dish Section"
+    "dishEditSection" : "dish Section",
+    "dishEditPrice" : "dish Price",
+    "dishNewTitle" : "Add New Dish",
+    "AddSection" : "Add Section",
+    "AddDish" : "Add Dish",
+    "deleteSection" : "Delete Section",
+    "no" : "no",
+    "yes" : "yes",
+    "sureDeleteSection" : "Are you sure you want to delete this section?",
+    "username" : "Username",
+    "password" : "Password",
+    "login" :"LOGIN"
+
 }

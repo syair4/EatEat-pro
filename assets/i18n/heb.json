@@ -27,8 +27,27 @@
     "dishEditTitle" : "עריכת מנה",
     "dishEditName" : "שם המנה",
     "dishEditInfo" : "מידע מורחב על המנה",
+    "dishEditSpecifications" : "מאפייני המנה",
     "dishEditDescription" : "תיאור המנה",
-    "dishEditSection" : "מחלקה"
+    "dishEditSection" : "מחלקה",
+    "dishEditPrice" : "מחיר",
+    "dishNewTitle" : "הוסף מנה חדשה",
+    "AddSection" : "הוסף מחלקה",
+    "AddDish" : "הוסף מנה",
+    "deleteSection" : "מחק מחלקה",
+    "no" : "לא",
+    "yes" : "כן",
+    "sureDeleteSection" : "האם אתה בטוח שאתה רוצה למחוק את המחלקה הזאת?",
+    "username" : "שם משתמש",
+    "password" : "סיסמא",
+    "login" :"התחבר"
+
+
+
+
+
+
+
 
 
 
