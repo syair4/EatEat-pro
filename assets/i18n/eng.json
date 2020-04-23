@@ -12,6 +12,11 @@
     "placeholderText" : "Enter Ingredient",
     "relevantDishesNum" : "dishes are relevant",
     "addUser" : "Add User",
+    "filterInputError" : "Please select from the list",
+    "filtercontentText" : "Add tags by the type of diet, ingredients, flavors, or feature of the dish that you like or dislike and see the dishes that suit each of you",
+    "name" : "Name",
+    "diner" : "Diner",
+
 
     "settingTitle" : "Restaurant Settings",
     "menuName" : "Menu Name",
@@ -42,6 +47,11 @@
     "sureDeleteSection" : "Are you sure you want to delete this section?",
     "username" : "Username",
     "password" : "Password",
-    "login" :"LOGIN"
+    "login" :"LOGIN",
+    "ingredientName" : "Ingredient Name",
+    "ingredientNewTitle" : "New Ingredient",
+    "ingredientEditTitle" : "Edit Ingredient",
+    "subIngredients" : "Sub Ingredients"
+
 
 }

@@ -9,9 +9,14 @@
     "likeButton" : "אוהב!" ,
     "dislikeButton" : "לא אוהב",
     "allergyButton" : "אלרגי",
-    "placeholderText" : "כתוב מרכיב",
+    "placeholderText" : "מרכיבים/סוג תזונה/טעם/מאפיין של מנה",
     "relevantDishesNum" : "מנות מתאימות",
     "addUser" : "הוסף סועד",
+    "filterInputError" : "אנא בחר מהרשימה",
+    "filtercontentText" : "הוסיפו תגיות על פי סוג תזונה, מרכיבים, טעמים או מאפיין של מנה שאתם רוצים או לא וראו את המנות שמתאימות לכל אחד מכם",
+    "name" : "שם",
+    "diner" : "סועד",
+
 
 
     "settingTitle" : "הגדרות המסעדה",
@@ -43,11 +48,12 @@
     "sureDeleteSection" : "האם אתה בטוח שאתה רוצה למחוק את המחלקה הזאת?",
     "username" : "שם משתמש",
     "password" : "סיסמא",
-    "login" :"התחבר"
-
-
-
-
+    "login" :"התחבר",
+    "ingredientName" : "שם הרכיב",
+    "ingredientNewTitle" : "רכיב חדש",
+    "ingredientEditTitle" : "ערוך רכיב",
+    "subIngredients" : "מרכיב משנה"
+    
 
 
 
