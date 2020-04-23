@@ -16,6 +16,10 @@
     "filtercontentText" : "Add tags by the type of diet, ingredients, flavors, or feature of the dish that you like or dislike and see the dishes that suit each of you",
     "name" : "Name",
     "diner" : "Diner",
+    "suitableDishes": "Suitable Dishes",
+    "CustomMenuButton" : "Custom Your Menu",
+    "addContantUser" : "Add Contant",
+
 
 
     "settingTitle" : "Restaurant Settings",
