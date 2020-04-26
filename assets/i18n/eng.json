@@ -22,6 +22,8 @@
     "headerText" : "It's a smart menu that will help you find the dishes that are right for you By type of diet, ingredients and flavors",
     "logout" : "Logout",
     "loginDialogContent" : "hello! login please",
+    "loginFacebook" : "Loging With Facebook",
+    "loginGoogle" : "Loging With Google",
 
     "settingTitle" : "Restaurant Settings",
     "menuName" : "Menu Name",

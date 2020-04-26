@@ -22,6 +22,8 @@
     "headerText" : "זה תפריט חכם שיעזור למצוא את המנות שמתאימות לכם על פי סוג תזונה, מרכיבים, טעמים או מאפיין של מנה",
     "logout" : "התנתק",
     "loginDialogContent" : "שלום! אנא בחר איך להתחבר",
+    "loginFacebook" : "התחבר עם Facebook",
+    "loginGoogle" : "התחברת עם Google",
 
     "settingTitle" : "הגדרות המסעדה",
     "menuName" : "שם התפריט",
