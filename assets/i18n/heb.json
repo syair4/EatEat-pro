@@ -24,6 +24,9 @@
     "loginDialogContent" : "שלום! אנא בחר איך להתחבר",
     "loginFacebook" : "התחבר עם Facebook",
     "loginGoogle" : "התחברת עם Google",
+    "addUserFromListDialogTitle" : "הוסף את החברים שלך",
+    "addUserFromListDialogNoConnectedtitle" : "אין חברים מקושרים",
+
 
     "settingTitle" : "הגדרות המסעדה",
     "menuName" : "שם התפריט",

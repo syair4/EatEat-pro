@@ -24,6 +24,8 @@
     "loginDialogContent" : "hello! login please",
     "loginFacebook" : "Loging With Facebook",
     "loginGoogle" : "Loging With Google",
+    "addUserFromListDialogTitle" : "add your firneds",
+    "addUserFromListDialogNoConnectedtitle" : "No Friends Connected",
 
     "settingTitle" : "Restaurant Settings",
     "menuName" : "Menu Name",
