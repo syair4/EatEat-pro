@@ -24,9 +24,11 @@
     "loginDialogContent" : "hello! login please",
     "loginFacebook" : "Loging With Facebook",
     "loginGoogle" : "Loging With Google",
-    "addUserFromListDialogTitle" : "add your firneds",
+    "addUserFromListDialogTitle" : "Add Your Firneds",
     "addUserFromListDialogNoConnectedtitle" : "No Friends Connected",
-    "close" : "close",
+    "close" : "Close",
+    "addNewConnectedUser" : "Add New Connected User",
+    "chooseIngredients" : "Ingredients To Choose",
 
     "settingTitle" : "Restaurant Settings",
     "menuName" : "Menu Name",
