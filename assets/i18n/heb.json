@@ -9,7 +9,7 @@
     "likeButton" : "אוהב!" ,
     "dislikeButton" : "לא אוהב",
     "allergyButton" : "אלרגי",
-    "placeholderText" : "מרכיבים/סוג תזונה/טעם/מאפיין של מנה",
+    "placeholderText" : "רכיב/סוג תזונה/טעם/מאפיין",
     "relevantDishesNum" : "מנות מתאימות",
     "addUser" : "הוסף סועד",
     "filterInputError" : "אנא בחר מהרשימה",
