@@ -9,7 +9,7 @@
     "likeButton" : "אוהב!" ,
     "dislikeButton" : "לא אוהב",
     "allergyButton" : "אלרגי",
-    "placeholderText" : "רכיב/סוג תזונה/טעם/מאפיין",
+    "placeholderText" : "רכיב/סוג תזונה/טעם/מאפיין מנה",
     "relevantDishesNum" : "מנות מתאימות",
     "addUser" : "הוסף סועד",
     "filterInputError" : "אנא בחר מהרשימה",
@@ -29,9 +29,9 @@
     "close" : "סגור",
     "addNewConnectedUser" : "הוסף חבר חדש",
     "chooseIngredients" : "מרכיבים לבחירה",
-    "additionalMenus" : "תפריטים נוספים",
+    "additionalMenus" : "עוד תפריטים",
     "bookTable": "הזמן שולחן",
-
+    "getHelpButtonTooltip": "עזרה",
 
 
 

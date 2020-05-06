@@ -29,8 +29,9 @@
     "close" : "Close",
     "addNewConnectedUser" : "Add New Connected User",
     "chooseIngredients" : "Ingredients To Choose",
-    "additionalMenus" : "Additional Menus",
+    "additionalMenus" : "More Menus",
     "bookTable": "Reservation",
+    "getHelpButtonTooltip": "help",
 
     "settingTitle" : "Restaurant Settings",
     "menuName" : "Menu Name",
