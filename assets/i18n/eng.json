@@ -31,7 +31,11 @@
     "chooseIngredients" : "Ingredients To Choose",
     "additionalMenus" : "More Menus",
     "bookTable": "Reservation",
-    "getHelpButtonTooltip": "help",
+    "getHelpButtonTooltip": "Eat.id",
+    "headerLoginButton": "login eat.id",
+    "showAllDishesButton": "Show All Dishes",
+    "goToSmartMenu": "go To Smart Menu",
+    "helpDialogText": "מלאו את שורת החיפוש למנות שמתאימות לכם\nסוג תזונה: צמחונית, מופחתת פחמימות, הריון, טבעונית,נטולת סוכר/גלוטן/\nטעם: חמוץ, חריף, מתוק\n  מאפיין מנה: מנה גדולה/בינונית/ קטנה, מנה לחלוקה\n    הוסיפו את מי שאוכלים אתכם",
 
     "settingTitle" : "Restaurant Settings",
     "menuName" : "Menu Name",
