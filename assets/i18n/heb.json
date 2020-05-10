@@ -30,13 +30,14 @@
     "addNewConnectedUser" : "הוסף חבר חדש",
     "chooseIngredients" : "מרכיבים לבחירה",
     "additionalMenus" : "עוד תפריטים",
-    "bookTable": "הזמן שולחן",
-    "getHelpButtonTooltip": "Eat.id",
-    "headerLoginButton": "התחבר eat.id",
-    "showAllDishesButton": "כל המנות",
-    "goToSmartMenu": "לתפריט חכם",
-    "helpDialogText": "מלאו את שורת החיפוש למנות שמתאימות לכם\n\nסוג תזונה: צמחונית, מופחתת פחמימות, הריון, טבעונית,נטולת סוכר/גלוטן/\n\nטעם: חמוץ, חריף, מתוק\n\nמאפיין מנה: מנה גדולה/בינונית/ קטנה, מנה לחלוקה\n\nהוסיפו את מי שאוכלים אתכם",
-
+    "bookTable" : "הזמן שולחן",
+    "getHelpButtonTooltip" : "Eat.id",
+    "headerLoginButton" : "התחבר eat.id",
+    "showAllDishesButton" : "כל המנות",
+    "goToSmartMenu" : "לתפריט חכם",
+    "helpDialogText" : "מלאו את שורת החיפוש למנות שמתאימות לכם\n\nסוג תזונה: צמחונית, מופחתת פחמימות, הריון, טבעונית,נטולת סוכר/גלוטן/\n\nטעם: חמוץ, חריף, מתוק\n\nמאפיין מנה: מנה גדולה/בינונית/ קטנה, מנה לחלוקה\n\nהוסיפו את מי שאוכלים אתכם",
+    "addUserFromListDialogOrText" : "או בחר חבר מהרשימה",
+    "addingAnonymousUser" : "הוסף סועד אנונימי",
 
 
     "settingTitle" : "הגדרות המסעדה",
