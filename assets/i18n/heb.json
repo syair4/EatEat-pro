@@ -39,7 +39,16 @@
     "helpDialogTitle" : "אז איך Eat.ID עובד?",
     "addUserFromListDialogOrText" : "או בחר חבר מהרשימה",
     "addingAnonymousUser" : "הוסף סועד אנונימי",
-
+    "preLaunchFilter_nutritionSelectLabel" : "סוג תזונה",
+    "preLaunchFilter_next": "הבא",
+    "preLaunchFilter_back": "חזור",
+    "preLaunchFilter_favoriteText":"מרכיב טעם או סוג אוכל שאתם אוהבים",
+    "preLaunchFilter_forbiddenText":"מרכיב טעם או סוג אוכל שאתם לא אוהבים",
+    "preLaunchFilter_goToFullMenu": "לתפריט המלא",
+    "preLaunchFilter_doneText": "תרצו לשמור את ההעדפות שלכם עבור תפריטים נוספים ולקבל את התפריט המותאם לנייד?",
+    "preLaunchFilter_doneLoginButtonText": "התחבר ושמור על הסינון שלי לחיפוש הבא",
+    "preLaunchFilter_goToCostumeMenu": "עבור לתפריט מותאם ללא שמירה",
+    "primaryUserDinerText":"אני",
 
     "settingTitle" : "הגדרות המסעדה",
     "menuName" : "שם התפריט",

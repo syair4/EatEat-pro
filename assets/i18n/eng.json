@@ -39,7 +39,15 @@
     "helpDialogTitle" : "מלאו הלכם\nסוג תזונסוכר/גלוטן/\nטעם: וק\n  מאפיילחלוקה\n    הוסיפו את מי שאוכלים אתכם",
     "addUserFromListDialogOrText" : "Or ",
     "addingAnonymousUser" : "Add Anonymous User",
-
+    "preLaunchFilter_nutritionSelectLabel" : "Choose Nutrtion",
+    "preLaunchFilter_favoriteText":"מרכיב טעם או סוג אוכל שאתם אוהבים",
+    "preLaunchFilter_next": "Next",
+    "preLaunchFilter_back": "Back",
+    "preLaunchFilter_goToFullMenu": "Go To The Full Menu",
+    "preLaunchFilter_doneText": "תרצו לשמור את ההעדפות שלכם עבור תפריטים נוספים ולקבל את התפריט המותאם לנייד?",
+    "preLaunchFilter_doneLoginButtonText": "Login And Save My Filter",
+    "preLaunchFilter_goToCostumeMenu": "Go To The Costume Menu Without Save The Filter",
+    "primaryUserDinerText":"Me",
 
     "settingTitle" : "Restaurant Settings",
     "menuName" : "Menu Name",
