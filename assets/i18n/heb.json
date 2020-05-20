@@ -23,7 +23,7 @@
     "logout" : "התנתק",
     "loginDialogContent" : "שלום! אנא בחר איך להתחבר",
     "loginFacebook" : "התחבר עם Facebook",
-    "loginGoogle" : "התחברת עם Google",
+    "loginGoogle" : "התחבר עם Google",
     "addUserFromListDialogTitle" : "הוסף את החברים שלך",
     "addUserFromListDialogNoConnectedtitle" : "אין חברים מקושרים",
     "close" : "סגור",
@@ -50,6 +50,8 @@
     "preLaunchFilter_goToCostumeMenu": "עבור לתפריט מותאם ללא שמירה",
     "primaryUserDinerText":"אני",
     "preLaunchFilter_tagInputPlaceholder": "לדוגמא: חריף, מנה קטנה, ירקות, תותים",
+    "preLaunchFilter_or" : "או",
+    "preLaunchFilter_alreadyRegistered" : "כבר רשום?",
 
 
     "settingTitle" : "הגדרות המסעדה",
