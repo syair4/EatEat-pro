@@ -49,6 +49,8 @@
     "preLaunchFilter_doneLoginButtonText": "התחבר ושמור על הסינון שלי לחיפוש הבא",
     "preLaunchFilter_goToCostumeMenu": "עבור לתפריט מותאם ללא שמירה",
     "primaryUserDinerText":"אני",
+    "preLaunchFilter_tagInputPlaceholder": "לדוגמא: חריף, מנה קטנה, ירקות, תותים",
+
 
     "settingTitle" : "הגדרות המסעדה",
     "menuName" : "שם התפריט",

@@ -48,6 +48,7 @@
     "preLaunchFilter_doneLoginButtonText": "Login And Save My Filter",
     "preLaunchFilter_goToCostumeMenu": "Go To The Costume Menu Without Save The Filter",
     "primaryUserDinerText":"Me",
+    "preLaunchFilter_tagInputPlaceholder": "For example: spicy, small dish, vegetables, strawberries",
 
     "settingTitle" : "Restaurant Settings",
     "menuName" : "Menu Name",
