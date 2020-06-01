@@ -60,6 +60,8 @@
     "preLaunchFilter_anotherTime" : "Another Time",
     "preLaunchFilter_AllIn" : "All In",
     "preLaunchFilter_ILike" : "I Like",
+    "preLaunchFilter_closeDropdown" : "Close",
+
 
     "settingTitle" : "Restaurant Settings",
     "menuName" : "Menu Name",
